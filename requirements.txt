@@ -14,7 +14,7 @@ dataclassy==0.11.1
 eip712==0.1.0
 eth-abi==2.2.0
 eth-account==0.5.9
-eth-brownie==1.19.3
+git+https://github.com/vsmelov/brownie.git@issue-1676-fix-verification-of-same-name-files
 eth-event==1.2.3
 eth-hash==0.3.3
 eth-keyfile==0.5.1
